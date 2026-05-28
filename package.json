@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-cms-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix portfolio-cms run dev",
+    "build": "npm --prefix portfolio-cms run build",
+    "start": "npm --prefix portfolio-cms run start",
+    "lint": "npm --prefix portfolio-cms run lint"
+  }
+}

@@ -1,0 +1,5 @@
+*.zip
+portfolio-cms/.next/
+portfolio-cms/node_modules/
+portfolio-cms/.env*
+portfolio-cms/.vercel/
