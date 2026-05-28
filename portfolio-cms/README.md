@@ -35,7 +35,7 @@ The storage layer uses Supabase in production when environment variables are pre
 3. Add these environment variables locally and in Vercel:
 
 ```bash
-NEXT_PUBLIC_SUPABASE_URL=https://oqoydxxihnkvruksskzc.supabase.co
+NEXT_PUBLIC_SUPABASE_URL=https://oqoydxkihnkrvuksskzc.supabase.co
 SUPABASE_PUBLISHABLE_KEY=your-publishable-key
 ```
 
